@@ -1,0 +1,330 @@
+C:\Users\30264\.conda\envs\pytorch\python.exe C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py 
+开始训练，使用设备: cuda
+Epoch [1/200] | Train Loss: 1.9106 | Train Acc: 31.07% | Test Loss: 1.5139 | Test Acc: 44.58%
+Epoch [2/200] | Train Loss: 1.3879 | Train Acc: 49.08% | Test Loss: 1.2388 | Test Acc: 55.07%
+Epoch [3/200] | Train Loss: 1.0945 | Train Acc: 60.57% | Test Loss: 1.0481 | Test Acc: 62.19%
+Epoch [4/200] | Train Loss: 0.8969 | Train Acc: 68.44% | Test Loss: 0.8725 | Test Acc: 69.79%
+Epoch [5/200] | Train Loss: 0.7523 | Train Acc: 73.68% | Test Loss: 0.8234 | Test Acc: 71.53%
+Epoch [6/200] | Train Loss: 0.6573 | Train Acc: 77.17% | Test Loss: 0.8305 | Test Acc: 72.29%
+Epoch [7/200] | Train Loss: 0.5986 | Train Acc: 79.31% | Test Loss: 0.6763 | Test Acc: 77.12%
+Epoch [8/200] | Train Loss: 0.5507 | Train Acc: 80.96% | Test Loss: 0.6356 | Test Acc: 78.34%
+Epoch [9/200] | Train Loss: 0.5278 | Train Acc: 81.98% | Test Loss: 0.6791 | Test Acc: 77.75%
+Epoch [10/200] | Train Loss: 0.5011 | Train Acc: 82.70% | Test Loss: 0.5478 | Test Acc: 81.54%
+Epoch [11/200] | Train Loss: 0.4884 | Train Acc: 83.15% | Test Loss: 0.6358 | Test Acc: 79.04%
+Epoch [12/200] | Train Loss: 0.4681 | Train Acc: 83.89% | Test Loss: 0.7568 | Test Acc: 75.11%
+Epoch [13/200] | Train Loss: 0.4525 | Train Acc: 84.59% | Test Loss: 0.7452 | Test Acc: 75.89%
+Epoch [14/200] | Train Loss: 0.4418 | Train Acc: 84.91% | Test Loss: 0.8636 | Test Acc: 72.05%
+Epoch [15/200] | Train Loss: 0.4329 | Train Acc: 85.18% | Test Loss: 0.5674 | Test Acc: 80.78%
+Epoch [16/200] | Train Loss: 0.4201 | Train Acc: 85.62% | Test Loss: 0.8572 | Test Acc: 73.77%
+Epoch [17/200] | Train Loss: 0.4160 | Train Acc: 85.85% | Test Loss: 0.6576 | Test Acc: 79.61%
+Epoch [18/200] | Train Loss: 0.4103 | Train Acc: 86.00% | Test Loss: 0.5289 | Test Acc: 82.14%
+Epoch [19/200] | Train Loss: 0.4024 | Train Acc: 86.19% | Test Loss: 0.5397 | Test Acc: 82.71%
+Epoch [20/200] | Train Loss: 0.3928 | Train Acc: 86.52% | Test Loss: 0.5963 | Test Acc: 81.00%
+Epoch [21/200] | Train Loss: 0.3856 | Train Acc: 86.66% | Test Loss: 0.5714 | Test Acc: 81.52%
+Epoch [22/200] | Train Loss: 0.3808 | Train Acc: 86.97% | Test Loss: 0.6830 | Test Acc: 77.92%
+Epoch [23/200] | Train Loss: 0.3807 | Train Acc: 86.96% | Test Loss: 0.5780 | Test Acc: 80.68%
+Epoch [24/200] | Train Loss: 0.3767 | Train Acc: 87.18% | Test Loss: 0.4846 | Test Acc: 83.39%
+Epoch [25/200] | Train Loss: 0.3719 | Train Acc: 87.35% | Test Loss: 0.5119 | Test Acc: 83.01%
+Epoch [26/200] | Train Loss: 0.3723 | Train Acc: 87.32% | Test Loss: 0.6024 | Test Acc: 80.27%
+Epoch [27/200] | Train Loss: 0.3643 | Train Acc: 87.55% | Test Loss: 0.7443 | Test Acc: 76.94%
+Epoch [28/200] | Train Loss: 0.3626 | Train Acc: 87.68% | Test Loss: 0.4342 | Test Acc: 85.57%
+Epoch [29/200] | Train Loss: 0.3576 | Train Acc: 87.88% | Test Loss: 0.5807 | Test Acc: 81.78%
+Epoch [30/200] | Train Loss: 0.3610 | Train Acc: 87.76% | Test Loss: 0.4636 | Test Acc: 84.48%
+Epoch [31/200] | Train Loss: 0.3559 | Train Acc: 87.89% | Test Loss: 0.5893 | Test Acc: 81.72%
+Epoch [32/200] | Train Loss: 0.3542 | Train Acc: 87.78% | Test Loss: 0.5364 | Test Acc: 83.00%
+Epoch [33/200] | Train Loss: 0.3496 | Train Acc: 87.95% | Test Loss: 0.5536 | Test Acc: 81.10%
+Epoch [34/200] | Train Loss: 0.3409 | Train Acc: 88.44% | Test Loss: 0.4802 | Test Acc: 84.01%
+Epoch [35/200] | Train Loss: 0.3446 | Train Acc: 88.24% | Test Loss: 0.4350 | Test Acc: 85.35%
+Epoch [36/200] | Train Loss: 0.3432 | Train Acc: 88.27% | Test Loss: 0.5752 | Test Acc: 81.86%
+Epoch [37/200] | Train Loss: 0.3513 | Train Acc: 88.01% | Test Loss: 0.6159 | Test Acc: 79.86%
+Epoch [38/200] | Train Loss: 0.3403 | Train Acc: 88.53% | Test Loss: 0.5287 | Test Acc: 83.28%
+Epoch [39/200] | Train Loss: 0.3400 | Train Acc: 88.30% | Test Loss: 0.4816 | Test Acc: 84.04%
+Epoch [40/200] | Train Loss: 0.3364 | Train Acc: 88.56% | Test Loss: 0.4685 | Test Acc: 85.08%
+Epoch [41/200] | Train Loss: 0.3347 | Train Acc: 88.57% | Test Loss: 0.4574 | Test Acc: 84.87%
+Epoch [42/200] | Train Loss: 0.3356 | Train Acc: 88.54% | Test Loss: 0.5919 | Test Acc: 81.26%
+Epoch [43/200] | Train Loss: 0.3353 | Train Acc: 88.58% | Test Loss: 0.5533 | Test Acc: 82.00%
+Epoch [44/200] | Train Loss: 0.3393 | Train Acc: 88.40% | Test Loss: 0.5151 | Test Acc: 83.37%
+Epoch [45/200] | Train Loss: 0.3368 | Train Acc: 88.60% | Test Loss: 0.8247 | Test Acc: 75.17%
+Epoch [46/200] | Train Loss: 0.3296 | Train Acc: 88.86% | Test Loss: 0.5107 | Test Acc: 83.72%
+Epoch [47/200] | Train Loss: 0.3392 | Train Acc: 88.40% | Test Loss: 0.4568 | Test Acc: 84.87%
+Epoch [48/200] | Train Loss: 0.3346 | Train Acc: 88.66% | Test Loss: 0.4732 | Test Acc: 84.08%
+Epoch [49/200] | Train Loss: 0.3350 | Train Acc: 88.58% | Test Loss: 0.4947 | Test Acc: 83.78%
+Epoch [50/200] | Train Loss: 0.3343 | Train Acc: 88.58% | Test Loss: 0.4884 | Test Acc: 83.64%
+Epoch [51/200] | Train Loss: 0.3272 | Train Acc: 88.95% | Test Loss: 0.5787 | Test Acc: 81.70%
+Epoch [52/200] | Train Loss: 0.3277 | Train Acc: 88.79% | Test Loss: 0.5660 | Test Acc: 80.75%
+Epoch [53/200] | Train Loss: 0.3305 | Train Acc: 88.86% | Test Loss: 0.5364 | Test Acc: 82.55%
+Epoch [54/200] | Train Loss: 0.3264 | Train Acc: 88.89% | Test Loss: 0.5769 | Test Acc: 81.34%
+Epoch [55/200] | Train Loss: 0.3290 | Train Acc: 88.95% | Test Loss: 0.4102 | Test Acc: 86.53%
+Epoch [56/200] | Train Loss: 0.3246 | Train Acc: 88.96% | Test Loss: 0.5200 | Test Acc: 82.89%
+Epoch [57/200] | Train Loss: 0.3231 | Train Acc: 89.03% | Test Loss: 0.4550 | Test Acc: 84.83%
+Epoch [58/200] | Train Loss: 0.3243 | Train Acc: 88.91% | Test Loss: 0.4425 | Test Acc: 85.75%
+Epoch [59/200] | Train Loss: 0.3263 | Train Acc: 88.97% | Test Loss: 0.7764 | Test Acc: 77.33%
+Epoch [60/200] | Train Loss: 0.3246 | Train Acc: 88.92% | Test Loss: 0.4533 | Test Acc: 84.98%
+Epoch [61/200] | Train Loss: 0.1700 | Train Acc: 94.34% | Test Loss: 0.2069 | Test Acc: 92.97%
+Epoch [62/200] | Train Loss: 0.1239 | Train Acc: 95.88% | Test Loss: 0.1991 | Test Acc: 93.13%
+Epoch [63/200] | Train Loss: 0.1035 | Train Acc: 96.54% | Test Loss: 0.1950 | Test Acc: 93.41%
+Epoch [64/200] | Train Loss: 0.0918 | Train Acc: 96.87% | Test Loss: 0.1940 | Test Acc: 93.56%
+Epoch [65/200] | Train Loss: 0.0834 | Train Acc: 97.20% | Test Loss: 0.1920 | Test Acc: 93.81%
+Epoch [66/200] | Train Loss: 0.0725 | Train Acc: 97.66% | Test Loss: 0.1921 | Test Acc: 93.77%
+Epoch [67/200] | Train Loss: 0.0663 | Train Acc: 97.81% | Test Loss: 0.1992 | Test Acc: 93.98%
+Epoch [68/200] | Train Loss: 0.0578 | Train Acc: 98.04% | Test Loss: 0.2073 | Test Acc: 93.81%
+Epoch [69/200] | Train Loss: 0.0566 | Train Acc: 98.14% | Test Loss: 0.2051 | Test Acc: 93.88%
+Epoch [70/200] | Train Loss: 0.0495 | Train Acc: 98.39% | Test Loss: 0.2056 | Test Acc: 93.87%
+Epoch [71/200] | Train Loss: 0.0439 | Train Acc: 98.60% | Test Loss: 0.2112 | Test Acc: 93.80%
+Epoch [72/200] | Train Loss: 0.0443 | Train Acc: 98.49% | Test Loss: 0.2193 | Test Acc: 93.52%
+Epoch [73/200] | Train Loss: 0.0400 | Train Acc: 98.69% | Test Loss: 0.2237 | Test Acc: 93.55%
+Epoch [74/200] | Train Loss: 0.0397 | Train Acc: 98.73% | Test Loss: 0.2123 | Test Acc: 93.96%
+Epoch [75/200] | Train Loss: 0.0383 | Train Acc: 98.71% | Test Loss: 0.2211 | Test Acc: 93.93%
+Epoch [76/200] | Train Loss: 0.0353 | Train Acc: 98.85% | Test Loss: 0.2270 | Test Acc: 93.52%
+Epoch [77/200] | Train Loss: 0.0352 | Train Acc: 98.90% | Test Loss: 0.2244 | Test Acc: 93.82%
+Epoch [78/200] | Train Loss: 0.0342 | Train Acc: 98.94% | Test Loss: 0.2333 | Test Acc: 93.50%
+Epoch [79/200] | Train Loss: 0.0331 | Train Acc: 98.93% | Test Loss: 0.2383 | Test Acc: 93.75%
+Epoch [80/200] | Train Loss: 0.0336 | Train Acc: 98.89% | Test Loss: 0.2468 | Test Acc: 93.36%
+Epoch [81/200] | Train Loss: 0.0209 | Train Acc: 99.41% | Test Loss: 0.2075 | Test Acc: 94.45%
+Epoch [82/200] | Train Loss: 0.0160 | Train Acc: 99.56% | Test Loss: 0.2043 | Test Acc: 94.55%
+Epoch [83/200] | Train Loss: 0.0140 | Train Acc: 99.67% | Test Loss: 0.2045 | Test Acc: 94.53%
+Epoch [84/200] | Train Loss: 0.0123 | Train Acc: 99.69% | Test Loss: 0.2045 | Test Acc: 94.49%
+Epoch [85/200] | Train Loss: 0.0112 | Train Acc: 99.74% | Test Loss: 0.2064 | Test Acc: 94.59%
+Epoch [86/200] | Train Loss: 0.0104 | Train Acc: 99.78% | Test Loss: 0.2032 | Test Acc: 94.55%
+Epoch [87/200] | Train Loss: 0.0101 | Train Acc: 99.79% | Test Loss: 0.2037 | Test Acc: 94.59%
+Epoch [88/200] | Train Loss: 0.0084 | Train Acc: 99.84% | Test Loss: 0.2037 | Test Acc: 94.70%
+Epoch [89/200] | Train Loss: 0.0092 | Train Acc: 99.82% | Test Loss: 0.2046 | Test Acc: 94.66%
+Epoch [90/200] | Train Loss: 0.0087 | Train Acc: 99.82% | Test Loss: 0.2059 | Test Acc: 94.72%
+Epoch [91/200] | Train Loss: 0.0080 | Train Acc: 99.85% | Test Loss: 0.2051 | Test Acc: 94.77%
+Epoch [92/200] | Train Loss: 0.0081 | Train Acc: 99.86% | Test Loss: 0.2061 | Test Acc: 94.73%
+Epoch [93/200] | Train Loss: 0.0072 | Train Acc: 99.86% | Test Loss: 0.2050 | Test Acc: 94.72%
+Epoch [94/200] | Train Loss: 0.0073 | Train Acc: 99.87% | Test Loss: 0.2056 | Test Acc: 94.72%
+Epoch [95/200] | Train Loss: 0.0068 | Train Acc: 99.88% | Test Loss: 0.2058 | Test Acc: 94.65%
+Epoch [96/200] | Train Loss: 0.0071 | Train Acc: 99.87% | Test Loss: 0.2066 | Test Acc: 94.85%
+Epoch [97/200] | Train Loss: 0.0067 | Train Acc: 99.89% | Test Loss: 0.2081 | Test Acc: 94.66%
+Epoch [98/200] | Train Loss: 0.0064 | Train Acc: 99.90% | Test Loss: 0.2087 | Test Acc: 94.79%
+Epoch [99/200] | Train Loss: 0.0063 | Train Acc: 99.89% | Test Loss: 0.2068 | Test Acc: 94.65%
+Epoch [100/200] | Train Loss: 0.0063 | Train Acc: 99.89% | Test Loss: 0.2067 | Test Acc: 94.81%
+Epoch [101/200] | Train Loss: 0.0064 | Train Acc: 99.89% | Test Loss: 0.2073 | Test Acc: 94.76%
+Epoch [102/200] | Train Loss: 0.0060 | Train Acc: 99.92% | Test Loss: 0.2091 | Test Acc: 94.82%
+Epoch [103/200] | Train Loss: 0.0060 | Train Acc: 99.90% | Test Loss: 0.2087 | Test Acc: 94.70%
+Epoch [104/200] | Train Loss: 0.0057 | Train Acc: 99.90% | Test Loss: 0.2125 | Test Acc: 94.67%
+Epoch [105/200] | Train Loss: 0.0060 | Train Acc: 99.91% | Test Loss: 0.2086 | Test Acc: 94.74%
+Epoch [106/200] | Train Loss: 0.0050 | Train Acc: 99.94% | Test Loss: 0.2068 | Test Acc: 94.67%
+Epoch [107/200] | Train Loss: 0.0052 | Train Acc: 99.94% | Test Loss: 0.2105 | Test Acc: 94.60%
+Epoch [108/200] | Train Loss: 0.0053 | Train Acc: 99.90% | Test Loss: 0.2090 | Test Acc: 94.83%
+Epoch [109/200] | Train Loss: 0.0051 | Train Acc: 99.92% | Test Loss: 0.2122 | Test Acc: 94.63%
+Epoch [110/200] | Train Loss: 0.0050 | Train Acc: 99.93% | Test Loss: 0.2099 | Test Acc: 94.71%
+Epoch [111/200] | Train Loss: 0.0049 | Train Acc: 99.93% | Test Loss: 0.2098 | Test Acc: 94.78%
+Epoch [112/200] | Train Loss: 0.0046 | Train Acc: 99.94% | Test Loss: 0.2091 | Test Acc: 94.69%
+Epoch [113/200] | Train Loss: 0.0050 | Train Acc: 99.93% | Test Loss: 0.2100 | Test Acc: 94.78%
+Epoch [114/200] | Train Loss: 0.0052 | Train Acc: 99.92% | Test Loss: 0.2127 | Test Acc: 94.82%
+Epoch [115/200] | Train Loss: 0.0045 | Train Acc: 99.94% | Test Loss: 0.2098 | Test Acc: 94.80%
+Epoch [116/200] | Train Loss: 0.0044 | Train Acc: 99.96% | Test Loss: 0.2103 | Test Acc: 94.76%
+Epoch [117/200] | Train Loss: 0.0045 | Train Acc: 99.95% | Test Loss: 0.2110 | Test Acc: 94.75%
+Epoch [118/200] | Train Loss: 0.0046 | Train Acc: 99.94% | Test Loss: 0.2103 | Test Acc: 94.73%
+Epoch [119/200] | Train Loss: 0.0046 | Train Acc: 99.96% | Test Loss: 0.2082 | Test Acc: 94.76%
+Epoch [120/200] | Train Loss: 0.0040 | Train Acc: 99.96% | Test Loss: 0.2080 | Test Acc: 94.79%
+Epoch [121/200] | Train Loss: 0.0040 | Train Acc: 99.96% | Test Loss: 0.2099 | Test Acc: 94.79%
+Epoch [122/200] | Train Loss: 0.0046 | Train Acc: 99.94% | Test Loss: 0.2093 | Test Acc: 94.85%
+Epoch [123/200] | Train Loss: 0.0041 | Train Acc: 99.95% | Test Loss: 0.2122 | Test Acc: 94.74%
+Epoch [124/200] | Train Loss: 0.0042 | Train Acc: 99.95% | Test Loss: 0.2098 | Test Acc: 94.70%
+Epoch [125/200] | Train Loss: 0.0039 | Train Acc: 99.97% | Test Loss: 0.2126 | Test Acc: 94.81%
+Epoch [126/200] | Train Loss: 0.0041 | Train Acc: 99.95% | Test Loss: 0.2098 | Test Acc: 94.83%
+Epoch [127/200] | Train Loss: 0.0040 | Train Acc: 99.96% | Test Loss: 0.2105 | Test Acc: 94.87%
+Epoch [128/200] | Train Loss: 0.0039 | Train Acc: 99.96% | Test Loss: 0.2100 | Test Acc: 94.80%
+Epoch [129/200] | Train Loss: 0.0038 | Train Acc: 99.95% | Test Loss: 0.2098 | Test Acc: 94.88%
+Epoch [130/200] | Train Loss: 0.0039 | Train Acc: 99.95% | Test Loss: 0.2094 | Test Acc: 94.82%
+Epoch [131/200] | Train Loss: 0.0036 | Train Acc: 99.97% | Test Loss: 0.2088 | Test Acc: 94.77%
+Epoch [132/200] | Train Loss: 0.0038 | Train Acc: 99.94% | Test Loss: 0.2099 | Test Acc: 94.92%
+Epoch [133/200] | Train Loss: 0.0037 | Train Acc: 99.96% | Test Loss: 0.2111 | Test Acc: 94.80%
+Epoch [134/200] | Train Loss: 0.0033 | Train Acc: 99.98% | Test Loss: 0.2116 | Test Acc: 94.77%
+Epoch [135/200] | Train Loss: 0.0036 | Train Acc: 99.97% | Test Loss: 0.2107 | Test Acc: 94.85%
+Epoch [136/200] | Train Loss: 0.0036 | Train Acc: 99.97% | Test Loss: 0.2120 | Test Acc: 94.83%
+Epoch [137/200] | Train Loss: 0.0035 | Train Acc: 99.96% | Test Loss: 0.2091 | Test Acc: 94.84%
+Epoch [138/200] | Train Loss: 0.0033 | Train Acc: 99.97% | Test Loss: 0.2078 | Test Acc: 94.95%
+Epoch [139/200] | Train Loss: 0.0036 | Train Acc: 99.97% | Test Loss: 0.2079 | Test Acc: 94.93%
+Epoch [140/200] | Train Loss: 0.0031 | Train Acc: 99.98% | Test Loss: 0.2101 | Test Acc: 94.85%
+Epoch [141/200] | Train Loss: 0.0036 | Train Acc: 99.95% | Test Loss: 0.2087 | Test Acc: 94.97%
+Epoch [142/200] | Train Loss: 0.0035 | Train Acc: 99.97% | Test Loss: 0.2109 | Test Acc: 94.82%
+Epoch [143/200] | Train Loss: 0.0034 | Train Acc: 99.97% | Test Loss: 0.2093 | Test Acc: 94.90%
+Epoch [144/200] | Train Loss: 0.0030 | Train Acc: 99.98% | Test Loss: 0.2109 | Test Acc: 94.78%
+Epoch [145/200] | Train Loss: 0.0033 | Train Acc: 99.97% | Test Loss: 0.2094 | Test Acc: 94.95%
+Epoch [146/200] | Train Loss: 0.0030 | Train Acc: 99.97% | Test Loss: 0.2125 | Test Acc: 94.91%
+Epoch [147/200] | Train Loss: 0.0030 | Train Acc: 99.98% | Test Loss: 0.2096 | Test Acc: 94.88%
+Epoch [148/200] | Train Loss: 0.0031 | Train Acc: 99.97% | Test Loss: 0.2084 | Test Acc: 94.83%
+Epoch [149/200] | Train Loss: 0.0034 | Train Acc: 99.96% | Test Loss: 0.2137 | Test Acc: 94.79%
+Epoch [150/200] | Train Loss: 0.0033 | Train Acc: 99.97% | Test Loss: 0.2124 | Test Acc: 94.82%
+Epoch [151/200] | Train Loss: 0.0031 | Train Acc: 99.98% | Test Loss: 0.2093 | Test Acc: 94.93%
+Epoch [152/200] | Train Loss: 0.0030 | Train Acc: 99.98% | Test Loss: 0.2085 | Test Acc: 94.94%
+Epoch [153/200] | Train Loss: 0.0031 | Train Acc: 99.97% | Test Loss: 0.2093 | Test Acc: 94.81%
+Epoch [154/200] | Train Loss: 0.0030 | Train Acc: 99.97% | Test Loss: 0.2085 | Test Acc: 94.86%
+Epoch [155/200] | Train Loss: 0.0029 | Train Acc: 99.98% | Test Loss: 0.2101 | Test Acc: 94.80%
+Epoch [156/200] | Train Loss: 0.0030 | Train Acc: 99.98% | Test Loss: 0.2108 | Test Acc: 94.83%
+Epoch [157/200] | Train Loss: 0.0033 | Train Acc: 99.97% | Test Loss: 0.2081 | Test Acc: 94.90%
+Epoch [158/200] | Train Loss: 0.0030 | Train Acc: 99.97% | Test Loss: 0.2085 | Test Acc: 94.89%
+Epoch [159/200] | Train Loss: 0.0029 | Train Acc: 99.97% | Test Loss: 0.2104 | Test Acc: 94.84%
+Epoch [160/200] | Train Loss: 0.0030 | Train Acc: 99.97% | Test Loss: 0.2100 | Test Acc: 94.87%
+Epoch [161/200] | Train Loss: 0.0029 | Train Acc: 99.98% | Test Loss: 0.2091 | Test Acc: 94.80%
+Epoch [162/200] | Train Loss: 0.0030 | Train Acc: 99.97% | Test Loss: 0.2091 | Test Acc: 94.89%
+Epoch [163/200] | Train Loss: 0.0029 | Train Acc: 99.98% | Test Loss: 0.2116 | Test Acc: 94.98%
+Epoch [164/200] | Train Loss: 0.0030 | Train Acc: 99.97% | Test Loss: 0.2108 | Test Acc: 94.89%
+Epoch [165/200] | Train Loss: 0.0028 | Train Acc: 99.98% | Test Loss: 0.2109 | Test Acc: 94.93%
+Epoch [166/200] | Train Loss: 0.0026 | Train Acc: 99.98% | Test Loss: 0.2122 | Test Acc: 94.86%
+Epoch [167/200] | Train Loss: 0.0027 | Train Acc: 99.98% | Test Loss: 0.2101 | Test Acc: 94.90%
+Epoch [168/200] | Train Loss: 0.0030 | Train Acc: 99.97% | Test Loss: 0.2096 | Test Acc: 94.88%
+Epoch [169/200] | Train Loss: 0.0031 | Train Acc: 99.97% | Test Loss: 0.2108 | Test Acc: 94.82%
+Epoch [170/200] | Train Loss: 0.0026 | Train Acc: 99.98% | Test Loss: 0.2133 | Test Acc: 94.78%
+Epoch [171/200] | Train Loss: 0.0027 | Train Acc: 99.98% | Test Loss: 0.2114 | Test Acc: 94.76%
+Epoch [172/200] | Train Loss: 0.0026 | Train Acc: 99.99% | Test Loss: 0.2111 | Test Acc: 94.81%
+Epoch [173/200] | Train Loss: 0.0028 | Train Acc: 99.98% | Test Loss: 0.2093 | Test Acc: 94.82%
+Epoch [174/200] | Train Loss: 0.0027 | Train Acc: 99.98% | Test Loss: 0.2088 | Test Acc: 94.89%
+Epoch [175/200] | Train Loss: 0.0026 | Train Acc: 99.98% | Test Loss: 0.2089 | Test Acc: 94.86%
+Epoch [176/200] | Train Loss: 0.0027 | Train Acc: 99.98% | Test Loss: 0.2107 | Test Acc: 94.90%
+Epoch [177/200] | Train Loss: 0.0027 | Train Acc: 99.98% | Test Loss: 0.2094 | Test Acc: 94.97%
+Epoch [178/200] | Train Loss: 0.0027 | Train Acc: 99.99% | Test Loss: 0.2110 | Test Acc: 94.91%
+Epoch [179/200] | Train Loss: 0.0028 | Train Acc: 99.98% | Test Loss: 0.2112 | Test Acc: 94.96%
+Epoch [180/200] | Train Loss: 0.0025 | Train Acc: 100.00% | Test Loss: 0.2082 | Test Acc: 95.01%
+Epoch [181/200] | Train Loss: 0.0027 | Train Acc: 99.98% | Test Loss: 0.2102 | Test Acc: 94.94%
+Epoch [182/200] | Train Loss: 0.0028 | Train Acc: 99.98% | Test Loss: 0.2078 | Test Acc: 94.85%
+Epoch [183/200] | Train Loss: 0.0025 | Train Acc: 99.99% | Test Loss: 0.2058 | Test Acc: 94.86%
+Epoch [184/200] | Train Loss: 0.0026 | Train Acc: 99.99% | Test Loss: 0.2087 | Test Acc: 94.95%
+Epoch [185/200] | Train Loss: 0.0028 | Train Acc: 99.98% | Test Loss: 0.2098 | Test Acc: 94.88%
+Epoch [186/200] | Train Loss: 0.0028 | Train Acc: 99.98% | Test Loss: 0.2090 | Test Acc: 94.96%
+Epoch [187/200] | Train Loss: 0.0025 | Train Acc: 99.99% | Test Loss: 0.2097 | Test Acc: 94.88%
+Epoch [188/200] | Train Loss: 0.0024 | Train Acc: 99.98% | Test Loss: 0.2111 | Test Acc: 95.02%
+Epoch [189/200] | Train Loss: 0.0026 | Train Acc: 99.99% | Test Loss: 0.2120 | Test Acc: 94.85%
+Epoch [190/200] | Train Loss: 0.0027 | Train Acc: 99.98% | Test Loss: 0.2109 | Test Acc: 94.84%
+Epoch [191/200] | Train Loss: 0.0025 | Train Acc: 99.99% | Test Loss: 0.2121 | Test Acc: 94.88%
+Epoch [192/200] | Train Loss: 0.0024 | Train Acc: 100.00% | Test Loss: 0.2106 | Test Acc: 94.85%
+Epoch [193/200] | Train Loss: 0.0027 | Train Acc: 99.98% | Test Loss: 0.2104 | Test Acc: 94.81%
+Epoch [194/200] | Train Loss: 0.0025 | Train Acc: 100.00% | Test Loss: 0.2077 | Test Acc: 94.89%
+Epoch [195/200] | Train Loss: 0.0024 | Train Acc: 99.99% | Test Loss: 0.2075 | Test Acc: 94.89%
+Epoch [196/200] | Train Loss: 0.0026 | Train Acc: 99.99% | Test Loss: 0.2075 | Test Acc: 94.93%
+Epoch [197/200] | Train Loss: 0.0025 | Train Acc: 99.99% | Test Loss: 0.2084 | Test Acc: 94.82%
+Epoch [198/200] | Train Loss: 0.0024 | Train Acc: 99.99% | Test Loss: 0.2072 | Test Acc: 94.80%
+Epoch [199/200] | Train Loss: 0.0025 | Train Acc: 99.99% | Test Loss: 0.2086 | Test Acc: 94.90%
+Epoch [200/200] | Train Loss: 0.0026 | Train Acc: 99.98% | Test Loss: 0.2081 | Test Acc: 94.96%
+训练完成! 总耗时: 90分2秒
+最佳测试准确率: 95.02%
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 35757 (\N{CJK UNIFIED IDEOGRAPH-8BAD}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 32451 (\N{CJK UNIFIED IDEOGRAPH-7EC3}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 36718 (\N{CJK UNIFIED IDEOGRAPH-8F6E}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 27425 (\N{CJK UNIFIED IDEOGRAPH-6B21}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 25439 (\N{CJK UNIFIED IDEOGRAPH-635F}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 22833 (\N{CJK UNIFIED IDEOGRAPH-5931}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 25351 (\N{CJK UNIFIED IDEOGRAPH-6307}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 26631 (\N{CJK UNIFIED IDEOGRAPH-6807}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 32447 (\N{CJK UNIFIED IDEOGRAPH-7EBF}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 27979 (\N{CJK UNIFIED IDEOGRAPH-6D4B}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 35797 (\N{CJK UNIFIED IDEOGRAPH-8BD5}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 20934 (\N{CJK UNIFIED IDEOGRAPH-51C6}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 30830 (\N{CJK UNIFIED IDEOGRAPH-786E}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:411: UserWarning: Glyph 29575 (\N{CJK UNIFIED IDEOGRAPH-7387}) missing from current font.
+  plt.tight_layout()
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 35757 (\N{CJK UNIFIED IDEOGRAPH-8BAD}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 32451 (\N{CJK UNIFIED IDEOGRAPH-7EC3}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 36718 (\N{CJK UNIFIED IDEOGRAPH-8F6E}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 27425 (\N{CJK UNIFIED IDEOGRAPH-6B21}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 25439 (\N{CJK UNIFIED IDEOGRAPH-635F}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 22833 (\N{CJK UNIFIED IDEOGRAPH-5931}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 25351 (\N{CJK UNIFIED IDEOGRAPH-6307}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 26631 (\N{CJK UNIFIED IDEOGRAPH-6807}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 32447 (\N{CJK UNIFIED IDEOGRAPH-7EBF}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 27979 (\N{CJK UNIFIED IDEOGRAPH-6D4B}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 35797 (\N{CJK UNIFIED IDEOGRAPH-8BD5}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 20934 (\N{CJK UNIFIED IDEOGRAPH-51C6}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 30830 (\N{CJK UNIFIED IDEOGRAPH-786E}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+C:\Users\30264\PycharmProjects\pythonProject\Dian\Project-01\01.py:412: UserWarning: Glyph 29575 (\N{CJK UNIFIED IDEOGRAPH-7387}) missing from current font.
+  plt.savefig(f'{title.replace(" ", "_")}_metrics.png')
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 35757 (\N{CJK UNIFIED IDEOGRAPH-8BAD}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 32451 (\N{CJK UNIFIED IDEOGRAPH-7EC3}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 36718 (\N{CJK UNIFIED IDEOGRAPH-8F6E}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 27425 (\N{CJK UNIFIED IDEOGRAPH-6B21}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 25439 (\N{CJK UNIFIED IDEOGRAPH-635F}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 22833 (\N{CJK UNIFIED IDEOGRAPH-5931}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 25351 (\N{CJK UNIFIED IDEOGRAPH-6307}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 26631 (\N{CJK UNIFIED IDEOGRAPH-6807}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 32447 (\N{CJK UNIFIED IDEOGRAPH-7EBF}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 27979 (\N{CJK UNIFIED IDEOGRAPH-6D4B}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 35797 (\N{CJK UNIFIED IDEOGRAPH-8BD5}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 20934 (\N{CJK UNIFIED IDEOGRAPH-51C6}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 30830 (\N{CJK UNIFIED IDEOGRAPH-786E}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:126: UserWarning: Glyph 29575 (\N{CJK UNIFIED IDEOGRAPH-7387}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 35757 (\N{CJK UNIFIED IDEOGRAPH-8BAD}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 32451 (\N{CJK UNIFIED IDEOGRAPH-7EC3}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 36718 (\N{CJK UNIFIED IDEOGRAPH-8F6E}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 27425 (\N{CJK UNIFIED IDEOGRAPH-6B21}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 25439 (\N{CJK UNIFIED IDEOGRAPH-635F}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 22833 (\N{CJK UNIFIED IDEOGRAPH-5931}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 25351 (\N{CJK UNIFIED IDEOGRAPH-6307}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 26631 (\N{CJK UNIFIED IDEOGRAPH-6807}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 32447 (\N{CJK UNIFIED IDEOGRAPH-7EBF}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 27979 (\N{CJK UNIFIED IDEOGRAPH-6D4B}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 35797 (\N{CJK UNIFIED IDEOGRAPH-8BD5}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 20934 (\N{CJK UNIFIED IDEOGRAPH-51C6}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 30830 (\N{CJK UNIFIED IDEOGRAPH-786E}) missing from current font.
+  FigureCanvasAgg.draw(self)
+D:\JetBrains\PyCharm 2024.1\plugins\python\helpers\pycharm_matplotlib_backend\backend_interagg.py:80: UserWarning: Glyph 29575 (\N{CJK UNIFIED IDEOGRAPH-7387}) missing from current font.
+  FigureCanvasAgg.draw(self)
+
+测试可扩展ResNet模型:
+ResNet-50参数量: 23520842
+ResNet-101参数量: 42512970
+
+进程已结束，退出代码为 0
